@@ -12,9 +12,4 @@ The app uses the themealdb REST API.
 - [Bootstrap](https://bootswatch.com/) (Bootswatch Theme)
 - HTML
 - CSS
-
-### Author
-
-Theelipan Prabakar - https://www.theelipan.com/
-
 Project Link: https://practical-archimedes-a61091.netlify.app/
